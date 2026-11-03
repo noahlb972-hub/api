@@ -65,6 +65,8 @@ Gestion des erreurs avec try / except (ex. : id inexistant renvoyant 404 et {"er
 v3
 api_v3.py + db.py
 Table user ; route POST /login/ ; authentification par username / password ; programmation modulaire et orientée objet : toutes les fonctions de requêtage sont déplacées dans la classe Database
+diagramme de classe 
+<img width="1104" height="1700" alt="image" src="https://github.com/user-attachments/assets/89e66122-50f8-4c93-8901-ead41ecb8701" />
 
 Fiche des tests de l'API 
 celui qui ma teste c'est Mathys et j'ai teste sur Mathys aussi
